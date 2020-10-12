@@ -1,0 +1,90 @@
+a.itg-button-1:hover,
+a.itg-button-1.active,
+#search,
+.itg-button-2:hover,
+figure.staffimg:before,
+.gallerylist ul li a:hover,
+.client-text p:hover,
+/*.sliderbg figure:hover,*/
+.news-sec .newstext a,
+.news-content-chat,
+.news-letter,
+.pricing-detail:hover,
+#staffSlider.owl-theme .owl-dots .owl-dot span:hover,
+.slidersec .owl-theme .owl-dots .owl-dot span:hover,
+.Businessec .owl-theme .owl-dots .owl-dot span:hover,
+figure.gallery-overly:before,
+.sliderblack .owl-theme .owl-nav [class*='owl-']:hover,
+.blog-content .blog-link:hover,
+.pagination-box span:hover,
+.service-form a:hover,
+.contact-map,
+.porfolio-icon ul li a:hover,
+.blogslider.owl-theme .owl-nav [class*='owl-']:hover,
+.blogslider.owl-theme .owl-dots .owl-dot.active span,
+.blogslider.owl-theme .owl-dots .owl-dot:hover span,
+ul.widget li:hover,
+ul.img-list li a:before,
+.sidebar-form a,
+.admin-circle,
+.ui-state-active,
+.ui-state-default:hover,
+.coming-color,
+.dropdown-menu>li>a:hover,
+.img-effect:after,
+.cssload-box-loading:after,
+.cssload-box-loading:before,
+.search-our-text button:hover,
+.blog-social-icon li a span,
+.slidersec .owl-theme .owl-dots .owl-dot.active span,
+.business-slider .owl-theme .owl-dots .owl-dot.active span {
+    background-color: #F4690C;
+}
+.headtext h2 span,
+.member p,
+.team-member p,
+a.staff-circle:hover,
+.teambg p span a,
+.client-text span a,
+.footer-list ul li:hover,
+.blog-content h4:hover,
+.blog-icon a:hover,
+.service-detail h4:hover,
+.service-form h4 span,
+.portfolio-about h3 span,
+.portfolio-detail p,
+.sidebar h4 span,
+.post-content h4:hover,
+.admin-detail span,
+.depth-reply p,
+.error-content p,
+.team-detail ul li i,
+.team-detail ul li a i:hover,
+ul.star-color li a i,
+.servicetext h4 a:hover,
+.sidebar-detail h5 a:hover,
+.sidebar-tweet span:hover,
+.sidebar-detail span a:hover,
+.cssload-box-loading h2,
+.servicetext:hover a,
+.newstext h4 a:hover {
+    color: #F4690C;
+}
+.gallerylist ul li a:hover {
+    border-color: #0163d2;
+}
+.headtext h2 {
+    border-left-color: #F4690C;
+}
+.client-text p:hover::before {
+    border-right-color: #0163d2;
+}
+.contact-map:before {
+    border-top-color: #0163d2;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    border-bottom: 1px solid #0163d2;
+}
+.blog-social-icon li a span:before {
+    border-bottom: 16px solid #0163d2;
+}

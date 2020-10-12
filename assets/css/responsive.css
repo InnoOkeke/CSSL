@@ -1,0 +1,743 @@
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .newstext h4 a {
+        font-size: 17px;
+    }
+    .textsec {
+        padding: 56px 0 46px 0;
+    }
+    .comming-text p {
+        font-size: 14px;
+    }
+    .whole-coming {
+        padding: 0 50px;
+    }
+    figure.coming-img img {
+        height: 601px;
+    }
+    .businesstext p,
+    .businesstext h3 {
+        display: none;
+    }
+    .business_text p {
+        margin-bottom: 10px;
+    }
+    .sliderblack .padL90 {
+        padding-left: 74px;
+    }
+    .footer-list ul {
+        left: 21%;
+    }
+}
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+    .team-detail ul li,
+    .post-tag p,
+    .newstext h4 {
+        font-size: 13px;
+    }
+    .blog-icon span {
+        margin-right: 0px;
+        font-size: 12px;
+    }
+    .aboutpad {
+        padding: 0;
+    }
+    .headtext h1 {
+        font-size: 34px;
+    }
+    .servicetext a i {
+        font-size: 30px;
+    }
+    .blog-icon a i {
+        font-size: 12px;
+        margin-right: 5px;
+    }
+    .error-content {
+        padding: 41px 120px;
+    }
+    .sidebar-detail span {
+        margin-right: 9px;
+    }
+    .sidebar-form a {
+        padding: 10px 39px;
+    }
+    .portfolio-about p {
+        margin: 10px 0;
+        font-size: 14px;
+    }
+    .portfolio-about {
+        padding: 0px 0 40px 0;
+    }
+    .blog-content h4 {
+        font-size: 16px;
+    }
+    .blog-img span a {
+        margin-right: 14px;
+    }
+    .post-social-icon ul li:nth-child(6) {
+        margin-top: 10px;
+    }
+    .abouttext p span {
+        margin: 0 0 15px 0;
+        font-size: 15px;
+    }
+    .business_text span {
+        font-size: 18px;
+    }
+    .business_text p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .textsec {
+        padding: 30px 0 20px 0;
+    }
+    .businesstext h3,
+    .businesstext p {
+        display: none;
+    }
+    .admin-circle {
+        height: 35px;
+        width: 35px;
+        padding: 4px 13px;
+        margin-left: 3px;
+    }
+    .servicetext {
+        padding: 80px 0;
+    }
+    .footer-list ul {
+        left: 10%;
+    }
+    .news-letter h4 {
+        font-size: 18px;
+    }
+    .news-letter a {
+        padding: 16px 20px;
+    }
+    .pricing-detail span a {
+        padding: 10px 20px;
+    }
+    .whole-coming {
+        padding: 0 20px;
+    }
+    .timer {
+        font-size: 37px;
+        padding: 30px 0px;
+    }
+    div#demo span {
+        font-size: 14px;
+    }
+	.custom-nav .owl-nav {
+		max-width: 820px;
+	}
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+    .aboutpad {
+        padding: 0;
+    }
+    .blog-icon span {
+        margin-right: 5px;
+        font-size: 11px;
+    }
+    .blog-icon a i {
+        font-size: 12px;
+        margin-right: 5px;
+    }
+    .servicetext span a i {
+        margin: -75px -15px;
+    }
+    .headtext h1 {
+        font-size: 34px;
+    }
+    .servicetext a i {
+        font-size: 30px;
+    }
+    .business_text span {
+        font-size: 16px;
+    }
+    .business_text p {
+        font-size: 13px;
+        margin-bottom: 6px;
+    }
+    .textsec {
+        padding: 33px 0 23px 0;
+    }
+    #staffSlider.owl-theme .owl-nav.disabled + .owl-dots,
+    .businesstext h3,
+    .businesstext p {
+        display: none;
+    }
+    .newstext h4 {
+        font-size: 13px;
+    }
+    .gallery-effect figcaption p {
+        margin: 0px 35px;
+    }
+    .abouttext p span {
+        margin: 0 0 15px 0;
+        font-size: 15px;
+    }
+    .error-content {
+        padding: 24px 85px;
+    }
+    ul.widget li {
+        padding: 10px 11px;
+    }
+    .sidebar-detail span {
+        margin-right: 6px;
+    }
+    .newstext h4 a,
+    .sidebar-detail p {
+        font-size: 11px;
+    }
+    .post-tag p,
+    .sidebar-detail h5 {
+        font-size: 12px;
+    }
+    .blog-content h4 {
+        font-size: 15px;
+    }
+    .sidebar-form a {
+        padding: 10px 34px;
+    }
+    .container {
+        width: auto;
+    }
+    .portfolio-about p {
+        margin: 10px 0;
+        font-size: 14px;
+    }
+    .portfolio-about {
+        padding: 0px 0 40px 0;
+    }
+    .post-social-icon ul li {
+        margin-bottom: 10px;
+    }
+    .blog-img span a {
+        margin-right: 9px;
+    }
+    .team-detail ul li {
+        font-size: 13px;
+    }
+    .pricing-detail span a {
+        padding: 10px 15px;
+    }
+    .admin-circle {
+        height: 35px;
+        width: 35px;
+        padding: 4px 13px;
+        margin-left: 1px;
+    }
+    .footer-list ul {
+        left: 10%;
+    }
+    .servicetext {
+        padding: 60px 0;
+    }
+    .news-letter h4 {
+        font-size: 17px;
+        margin-left: 13px;
+    }
+    .news-letter a {
+        padding: 16px 22px;
+    }
+    .whole-coming {
+        padding: 0 20px;
+    }
+    .timer {
+        font-size: 37px;
+        padding: 30px 0px;
+    }
+    div#demo span {
+        font-size: 14px;
+    }
+	.custom-nav .owl-nav {
+		max-width: 800px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar > .container-fluid .navbar-brand {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .navbar-header {
+        width: 100%;
+    }
+    .navbar-nav {
+        text-align: center;
+        width: 100%;
+    }
+    .aboutpad {
+        padding: 30px 0 0px 0;
+    }
+    .servicetext span a i {
+        margin: -58px -15px;
+    }
+    .portfolio-about {
+        padding: 0 0 50px 0;
+    }
+    .headtext h1 {
+        font-size: 30px;
+    }
+    .admin-circle {
+        height: 30px;
+        width: 30px;
+        font-size: 11px;
+        padding: 2px 11px;
+        margin-left: 2px;
+    }
+    figure.about-overly img {
+        width: 100%;
+    }
+    .about-overly {
+        width: 100%;
+    }
+    .admin-detail figcaption ul {
+        float: none;
+        text-align: center;
+    }
+    .admin-detail figure figcaption ul li {
+        display: inline-block;
+        text-align: center;
+        float: none;
+    }
+    .blog-content h4 {
+        font-size: 10px;
+    }
+    .team-detail ul li {
+        font-size: 15px;
+    }
+    .portset figcaption h2 {
+        font-size: 24px;
+    }
+    .portset figcaption p {
+        margin: 0px 30px;
+    }
+    .slidertext h1 {
+        font-size: 40px;
+    }
+    .slidertext h1 {
+        font-size: 40px;
+    }
+    .slidertext p {
+        font-size: 16px;
+    }
+    .teambg {
+        padding: 14px 20px;
+    }
+    .error-content {
+        padding: 11px 30px;
+    }
+    .error-content h3 {
+        font-size: 20px;
+    }
+    .admin-detail p,
+    .error-content figure img {
+        margin: 10px 0;
+    }
+    .ui-accordion .ui-accordion-content {
+        height: 575px!important;
+    }
+    ul.widget li {
+        padding: 10px 6px;
+    }
+    .sidebar-detail span {
+        margin-right: 7px;
+    }
+    .sidebar-detail p {
+        font-size: 11px;
+    }
+    .sidebar-detail h5 {
+        font-size: 12px;
+    }
+    .sidebar-form a {
+        padding: 10px 35px;
+        margin-top: 10px;
+    }
+    .business-slider {
+        position: relative;
+    }
+    #staffSlider.owl-theme .owl-nav.disabled + .owl-dots {
+        display: none;
+    }
+    .portfolio-about p {
+        margin: 10px 0 10px 0;
+    }
+    .blog-content p,
+    .porfolio-icon {
+        margin-top: 10px;
+    }
+    .blog-img {
+        display: none;
+    }
+    .post-social-icon ul li {
+        padding: 5px 7px;
+    }
+    .post-tag {
+        margin-top: 0;
+        float: left;
+    }
+    .blog a {
+        padding: 10px 35px;
+    }
+    .team-member,
+    .post-tag p,
+    .pricemar {
+        margin-bottom: 30px;
+    }
+    .sliderblack .padL90 {
+        padding-left: 50px;
+    }
+    .news-letter h4 {
+        font-size: 16px;
+        margin-left: 0;
+    }
+    .servicetext {
+        padding: 50px 0;
+    }
+    .container {
+        width: auto;
+    }
+    .footer-list ul {
+        left: 1%;
+    }
+    .footer-list ul li {
+        padding: 0 15px;
+    }
+    .whole-coming {
+        padding: 0 10px;
+    }
+    .timer {
+        font-size: 24px;
+        padding: 25px 0px;
+    }
+    div#demo span {
+        font-size: 11px;
+    }
+	.custom-nav .owl-nav {
+		max-width: 515px;
+	}
+}
+@media screen and (max-width: 767px) {
+    .navbar-toggle {
+        margin: 0 auto;
+        top: 3px;
+    }
+    .navbar-default .navbar-nav>li>a {
+        height: auto;
+    }
+    .navbar-header {
+        margin-bottom: 10px;
+    }
+    .navbar-nav > li > a.has-submenu {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #202020;
+        font-size: 16px;
+        padding: 8px 20px;
+        font-weight: 600;
+    }
+    .custom-nav {
+        position: relative;
+        top: 0;
+    }
+    .custom-nav .owl-nav {
+        position: relative;
+        left: 50%;
+        margin-left: -40px;
+        display: inline-block;
+        top: 20px;
+    }
+    .sliderblack .owl-prev {
+        float: left;
+        left: 0;
+        position: relative;
+    }
+    .sliderblack .owl-next {
+        float: right;
+        right: 0;
+        position: relative;
+    }
+    figure.about-overly {
+        width: 100%;
+    }
+    .about-overly img {
+        width: 100%;
+    }
+    .servicetext span a i {
+        margin: -48px -15px;
+    }
+    .portfolio-about {
+        padding: 0 0 50px 0;
+    }
+    .servicetext {
+        padding: 40px 0;
+    }
+    .headtext h1 {
+        font-size: 24px;
+    }
+    .headtext h4 {
+        font-size: 15px;
+    }
+    .gallery-effect figcaption p {
+        margin: 0px 33px;
+    }
+    .error-content {
+        padding: 50px 0;
+    }
+    .sidebar-detail figure img {
+        margin-bottom: 20px;
+    }
+    .blog-social-icon ul li {
+        padding: 5px 11px;
+    }
+    .post-social-icon ul li {
+        margin-bottom: 10px;
+    }
+    .depth-reply,
+    .sidebar-form a {
+        margin-top: 20px;
+    }
+    .portfolio-about p {
+        margin: 10px 0 10px 0;
+    }
+    .navbar-nav > li {
+        padding: 0px 15px 15px 15px;
+    }
+    .navbar-default .navbar-nav>li>a:hover {
+        border-bottom: none;
+    }
+    .porfolio-icon {
+        margin-top: 10px;
+    }
+    .blog-content p {
+        margin-top: 0;
+    }
+    .post-tag {
+        float: none;
+        margin: 0 0 30px 0;
+    }
+    .admin-detail h3 {
+        text-align: center;
+        margin: 20px 0;
+    }
+    .client-text p:before,
+    .blog-img,
+    .blog-social-icon li a span,
+    #staffSlider.owl-theme .owl-nav.disabled + .owl-dots,
+    .Businessec .owl-theme .owl-nav.disabled + .owl-dots,
+    .slidersec .owl-theme .owl-nav.disabled + .owl-dots {
+        display: none;
+    }
+    .aboutpad {
+        padding-bottom: 0;
+    }
+    .depth-2,
+    .depth-sec-2,
+    .teamwh .padL60,
+    .textsec {
+        padding-left: 0;
+    }
+    .gallerylist {
+        padding: 0;
+    }
+    .service-form textarea {
+        margin: 0 0 20px 0;
+    }
+    .team-detail,
+    .service-form input,
+    .team-member,
+    .resmar {
+        margin-bottom: 30px;
+    }
+    .resmargin {
+        margin: 0px;
+    }
+    .gallerylist ul li a {
+        margin-bottom: 20px;
+    }
+    .business-slider {
+        position: relative;
+    }
+    .padL90 {
+        padding-left: 15px;
+    }
+    .pricing-detail span a {
+        padding: 10px 28px;
+    }
+    figure.faqimg img,
+    .admin-detail figure img {
+        width: 100%;
+    }
+    .admin-detail figcaption ul {
+        float: none;
+        text-align: center;
+    }
+    .admin-detail figure figcaption ul li {
+        display: inline-block;
+        text-align: center;
+        float: none;
+    }
+    .news-letter h4 {
+        font-size: 16px;
+        margin-bottom: 30px;
+        margin-left: 0;
+    }
+    .news-letter input {
+        margin-bottom: 30px;
+        font-size: 13px;
+    }
+    .news-letter div {
+        text-align: center;
+    }
+    .coming-color {
+        width: 100%;
+    }
+    .comming-soon-icon ul {
+        padding-top: 20px;
+    }
+    .comming-text {
+        padding-bottom: 30px;
+    }
+    div#demo span {
+        margin-bottom: 10px;
+    }
+}
+@media screen and (min-width: 641px) and (max-width: 767px) {
+    .slidertext {
+        margin-top: -71px;
+    }
+    .slidertext h1 {
+        font-size: 34px;
+    }
+    .slidertext p {
+        font-size: 15px;
+    }
+    .whole-coming {
+        margin: -260px 0;
+    }
+}
+@media screen and (min-width: 481px) and (max-width: 640px) {
+    .slidertext {
+        margin-top: -41px;
+    }
+    .slidertext h1 {
+        font-size: 24px;
+    }
+    .slidertext p {
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+    .slidertext a {
+        display: none;
+    }
+    .whole-coming {
+        margin: -260px 0;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .slidertext {
+        margin-top: -31px;
+    }
+    .headtext h2 {
+        font-size: 32px;
+    }
+    .newstext h4 a {
+        font-size: 14px;
+    }
+    .slidertext p {
+        margin-bottom: 0;
+    }
+    .admin-detail h3,
+    .post-content h4,
+    .service-detail h4,
+    .slidertext h1 {
+        font-size: 15px;
+    }
+    .team-detail ul li,
+    .blog-content h4,
+    .slidertext p {
+        font-size: 12px;
+    }
+    .depth-reply a,
+    .itg-button-1 {
+        display: none;
+    }
+    .gallerylist ul li a {
+        padding: 7px 4px;
+    }
+    .teambg h3 {
+        font-size: 21px;
+    }
+    ul.widget li {
+        padding: 10px 9px;
+    }
+    .sidebar-detail h5 {
+        font-size: 13px;
+    }
+    .admin-circle {
+        height: 35px;
+        width: 35px;
+        padding: 4px 13px;
+    }
+    .sidebar-detail span {
+        margin-right: 25px;
+    }
+    .sidebar-form a {
+        padding: 10px 47px;
+    }
+    .sliderbg figure {
+        padding: 20px 8px;
+    }
+    .breadcrumb-section h1 {
+        font-size: 28px;
+    }
+    .porfolio-icon ul li a {
+        margin-right: 5px;
+        padding: 8px 13px;
+    }
+    .pagination-box span {
+        width: 30px;
+    }
+    .post-tag p,
+    .post-tag span {
+        font-size: 11px;
+    }
+    .depth-reply p {
+        margin: 17px 2px;
+        text-align: center;
+        width: 100%;
+        top: 0;
+    }
+    .admin-circle {
+        margin-left: 8px;
+    }
+    .contact-map {
+        padding: 35px 0;
+    }
+    .contact-map h2 {
+        padding-left: 60px;
+    }
+    .contact-map img {
+        margin-left: -125px;
+    }
+    .timer {
+        font-size: 37px;
+        padding: 25px 0;
+    }
+    .whole-coming {
+        padding: 0 36px;
+    }
+    .comming-text p {
+        font-size: 12px;
+    }
+    div#demo span {
+        font-size: 14px;
+    }
+    .comming-soon-icon ul li {
+        padding: 10px 5px;
+    }
+    .whole-coming {
+        margin: -220px 0;
+    }
+}
